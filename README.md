@@ -1,4 +1,4 @@
-# 🌿 Khanware
+# 🌿 KhanGREEN
 ### The most advanced Khan Academy cheat.
 
 ```js
